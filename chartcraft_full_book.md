@@ -15,244 +15,205 @@
 - **Collaboration & Version Control**: Google Drive for sharing drafts, GitHub for digital course sync.
 - **Final Export**: Adobe Acrobat or Canva Pro for PDF/ebook formats.
 
-## Detailed Table of Contents with Subheadings and Page Estimates
+## Updated Table of Contents
 
-### Preface (10 pages)
-1. **The Vision of Chartcraft** (2 pages)
-   - Introduction to predictive trading as art.
-   - [Image Placeholder: Book cover concept or trading chart art]
-2. **What This Book Will Teach You** (3 pages)
-   - Overview of skills: Chart marking, execution, psychology.
-3. **How to Use This Manual** (3 pages)
-   - Demo, replay, journals, assessments.
-4. **The DRIVE System Philosophy** (2 pages)
-   - Direction, Range, Interest, Value, Execution.
+### Front Matter
+1. **Title Page**
+2. **Copyright Page**
+3. **Dedication / Acknowledgements**
+4. **Preface / Author's Note**
+5. **How to Use This Book**
+6. **The Vision of ChartCraft** — Philosophy, predictive trading as art.
+7. **What This Book Will Teach You** — Overview of skills: chart marking, execution, psychology.
+8. **Demo Accounts, Replay, Journals, Assessments Setup**
 
-### PART I — THE FOUNDATIONS OF MONEY, BANKS & FOREX (35 pages)
-1. **The Origin of Exchange and Money** (8 pages)
-   - From barter to commodities (2 pages)
-   - Chinese innovations & British coinage (3 pages)
-   - The rise of the Bank of England (2 pages)
-   - Gold Standard → Fiat Transition (Bretton Woods → Nixon Shock) (1 page)
-   - [Image Placeholder: Historical currency timeline]
-2. **Evolution of Central Banking** (12 pages)
-   - The Fed, ECB, and their mandates (4 pages)
-   - QE, QT, and monetary policy control (3 pages)
-   - Petrodollar & USD global power (3 pages)
-   - IMF, World Bank, SWIFT dynamics (2 pages)
-   - [Image Placeholder: Central bank logos and global map]
-3. **Why Forex Exists** (15 pages)
-   - Trade, hedging, speculation, and reserves (5 pages)
-   - The global currency network (10 pages)
-   - [Image Placeholder: Forex market participants diagram]
+### PART I — FOUNDATIONS OF MONEY, BANKS & FOREX
+**1. The Origin of Exchange and Money**
+* Barter systems & inefficiencies
+* Early currencies (shells, beads, commodity money)
+* Precious metals era (gold, silver)
+* Chinese monetary innovations
+* British coinage & the rise of the Bank of England
+* Gold Standard → Fiat transition (Bretton Woods, Nixon Shock)
+* Visual: Historical currency timeline
 
-### PART II — FOREX STRUCTURE, PARTICIPANTS & PLATFORMS (35 pages)
-4. **Forex Market Structure & Participants** (15 pages)
-   - Interbank system (5 pages)
-   - Liquidity providers, brokers, ECNs (5 pages)
-   - Major/minor/exotic pairs (3 pages)
-   - Session characteristics (2 pages)
-   - [Image Placeholder: Market structure flowchart]
-5. **Brokers, Platforms & Setup** (20 pages)
-   - Market Maker vs ECN (5 pages)
-   - Broker regulation (5 pages)
-   - MT5, TradingView, and MyFXBook (5 pages)
-   - Account creation & backtesting setup (5 pages)
-   - [Image Placeholder: Platform screenshots]
+**2. Evolution of Central Banking**
+* The Fed, ECB, BoE mandates and global power
+* QE, QT, monetary policy tools
+* Petrodollar system & USD global dominance
+* IMF, World Bank, SWIFT & sanctions impact
+* Visuals: Central bank logos and global map
 
-### PART III — PRICE MECHANICS & MARKET STRUCTURE (65 pages)
-6. **Core Price Mechanics** (10 pages)
-   - Impulsive, corrective, consolidation phases (5 pages)
-   - RBR, DBD, accumulation → manipulation → expansion (5 pages)
-   - [Image Placeholder: Price action examples]
-7. **Market Structure Theory** (15 pages)
-   - HH, HL, LH, LL logic (5 pages)
-   - BOS vs CHoCH (5 pages)
-   - Internal vs external structure (3 pages)
-   - Multi-timeframe context (2 pages)
-   - [Image Placeholder: Structure diagrams]
-8. **Liquidity Theory** (10 pages)
-   - External/internal liquidity (5 pages)
-   - Stop hunts, sweeps, and liquidity pools (5 pages)
-   - [Image Placeholder: Liquidity map example]
-9. **Smart Money Concepts (SMC)** (15 pages)
-   - Order Blocks (valid, invalid, mitigation, breaker) (7 pages)
-   - Fair Value Gaps (imbalance marking) (5 pages)
-   - Institutional stacking and OB–FVG confluence (3 pages)
-   - [Image Placeholder: OB and FVG charts]
-10. **Supply, Demand, and SnR** (10 pages)
-    - Institutional vs retail S&R (5 pages)
-    - SnR flips, polarity & ranking (5 pages)
-    - [Image Placeholder: S&R levels on chart]
-11. **Fibonacci Precision** (5 pages)
-    - Retracement & extension levels in SMC context (3 pages)
-    - Fib + OB + FVG confluence (2 pages)
-    - [Image Placeholder: Fib examples]
+**3. Why Forex Exists**
+* Trade, hedging, speculation, reserves
+* The global currency network
+* Evolution from needing large capital to OTC & leverage
+* Historical USD & Gold importance
+* Forex's influence on countries' economies
+* Market value of Forex & who controls it
+* Visual: Forex market participants diagram
 
-### PART IV — ADVANCED MARKET DYNAMICS (75 pages)
-12. **Inducements & Liquidity Traps** (10 pages)
-    - Identifying traps (5 pages)
-    - Avoiding common pitfalls (5 pages)
-    - [Image Placeholder: Trap examples]
-13. **Range Behavior & Session Killzones** (10 pages)
-    - Range analysis (5 pages)
-    - Killzone strategies (5 pages)
-    - [Image Placeholder: Session charts]
-14. **The DRIVE Framework: Direction, Range, Interest, Value, Execution** (15 pages)
-    - Breakdown of each component (12 pages)
-    - Integration examples (3 pages)
-    - [Image Placeholder: DRIVE diagram]
-15. **Pre-Trade Routine & Checklist** (10 pages)
-    - Step-by-step routine (7 pages)
-    - Checklist template (3 pages)
-    - [Image Placeholder: Checklist graphic]
-16. **Entry Models & Trigger Mechanics** (10 pages)
-    - Model types (5 pages)
-    - Trigger identification (5 pages)
-    - [Image Placeholder: Entry signals]
-17. **Execution Models** (10 pages)
-    - Scalper Model (1m–5m) (3 pages)
-    - Intraday Model (15m–H1) (3 pages)
-    - Swing Model (H4–Daily) (4 pages)
-    - [Image Placeholder: Model comparisons]
-18. **Stop Placement & Target Mapping** (5 pages)
-    - SL strategies (3 pages)
-    - Target setting (2 pages)
-    - [Image Placeholder: SL/TP examples]
-19. **Position Sizing & Lot Calculation** (5 pages)
-    - Risk management (3 pages)
-    - Lot formulas (2 pages)
-    - [Image Placeholder: Sizing calculator]
-20. **Trade Management Techniques** (10 pages)
-    - Breakeven protocol, trailing SL, pyramiding rules (10 pages)
-    - [Image Placeholder: Management charts]
+### PART II — FOREX STRUCTURE, PARTICIPANTS & PLATFORMS
+**1. Forex Market Structure & Participants**
+* Interbank system
+* Liquidity providers, brokers, ECNs
+* Major, minor, exotic pairs
+* Forex session characteristics: good vs bad sessions, overlaps
+* Visual: Market structure flowchart
 
-### PART V — RESEARCH, TRACKING & IMPROVEMENT (50 pages)
-21. **Trade Journaling & Performance Metrics** (15 pages)
-    - Journal setup (5 pages)
-    - Metrics tracking (10 pages)
-    - [Image Placeholder: Journal template]
-22. **Backtesting, Replay & Edge Validation** (15 pages)
-    - Backtesting methods (7 pages)
-    - Replay techniques (5 pages)
-    - Validation steps (3 pages)
-    - [Image Placeholder: Backtest results]
-23. **Fundamental Drivers & News Mastery** (10 pages)
-    - Key drivers (5 pages)
-    - News integration (5 pages)
-    - [Image Placeholder: Economic calendar]
-24. **Market Sentiment Matrix** (5 pages)
-    - Sentiment analysis (5 pages)
-    - [Image Placeholder: Sentiment indicators]
-25. **Correlation Systems** (3 pages)
-    - Pair correlations (3 pages)
-    - [Image Placeholder: Correlation matrix]
-26. **Liquidity Engineering** (2 pages)
-    - Advanced liquidity concepts (2 pages)
-    - [Image Placeholder: Liquidity engineering diagram]
+**2. Brokers, Platforms & Practical Setup**
+* Types of brokers: B-Book, A-Book, hybrid
+* Broker regulation & why it matters (FCA, ASIC, CMA)
+* How brokers make money
+* Choosing a broker: spreads, execution, slippage
+* Demo account practices
+* Platforms: MT5 (Android, Desktop, Web), TradingView, MyFXBook
+* Account tracking & chart templates
+* Visuals: Platform screenshots
 
-### PART VI — PSYCHOLOGY, IDENTITY & ACCOUNTABILITY (45 pages)
-27. **Cognitive Biases & Emotional Management** (10 pages)
-    - Common biases (5 pages)
-    - Management strategies (5 pages)
-    - [Image Placeholder: Bias illustrations]
-28. **Trading Identity Shift: Student → Operator** (10 pages)
-    - Mindset transformation (10 pages)
-    - [Image Placeholder: Identity shift graphic]
-29. **Account Growth & Overconfidence Cycles** (5 pages)
-    - Growth strategies (3 pages)
-    - Avoiding overconfidence (2 pages)
-    - [Image Placeholder: Growth curve]
-30. **Crisis Recovery Protocol** (5 pages)
-    - Recovery steps (5 pages)
-    - [Image Placeholder: Recovery flowchart]
-31. **Discipline Rituals (Focus, Fasting, Meditation)** (10 pages)
-    - Ritual descriptions (7 pages)
-    - Implementation (3 pages)
-    - [Image Placeholder: Ritual icons]
-32. **Self-Sabotage Detection System** (5 pages)
-    - Detection methods (5 pages)
-    - [Image Placeholder: Sabotage warning signs]
+**3. Types of Charts & Technical Background**
+* Line, bar, candlestick charts: history, usage, and advantages
+* Candlestick patterns and relevance in SMC
+* Visual: Candlestick evolution & examples
 
-### PART VII — OPERATIONS, ETHICS & PROP PREPARATION (25 pages)
-33. **Practical Operations & Trading Ethics** (10 pages)
-    - Ethical guidelines (5 pages)
-    - Operational best practices (5 pages)
-    - [Image Placeholder: Ethics diagram]
-34. **Prop Firm Adaptation** (10 pages)
-    - Prop strategies (7 pages)
-    - Adaptation tips (3 pages)
-    - [Image Placeholder: Prop firm logos]
-35. **Personal Trading Plan Creation** (5 pages)
-    - Plan components (5 pages)
-    - [Image Placeholder: Plan template]
+### PART III — PRICE MECHANICS & MARKET STRUCTURE
+**1. Core Price Mechanics & Market Phases**
+* Impulsive, corrective, consolidation phases
+* Accumulation → Manipulation → Expansion → Distribution
+* Rally-Base-Rally (RBR) & Drop-Base-Drop (DBD) logic
+* Visual: Price action examples
 
-### PART VIII — MENTORSHIP SYSTEM (40 pages)
-36. **Cheat Sheets** (15 pages)
-    - OB marking rules (4 pages)
-    - FVG marking rules (4 pages)
-    - Pre-trade checklist (4 pages)
-    - Entry triggers cheat sheet (3 pages)
-    - [Image Placeholder: Cheat sheet graphics]
-37. **Mentor Review System** (15 pages)
-    - 10-trade submission + 500-word reflection (7 pages)
-    - 5-minute oral trade rationale (voice/video) (8 pages)
-    - [Image Placeholder: Submission examples]
-38. **Assessment Rubrics** (10 pages)
-    - 70% rule compliance, KPI thresholds (5 pages)
-    - Redo policy & pass/fail grading (5 pages)
-    - [Image Placeholder: Rubric tables]
+**2. Market Structure: BOS, CHoCH & Trends**
+* Higher highs/lower lows logic
+* Break of Structure (BOS) & Change of Character (CHoCH)
+* Internal vs external structure shifts
+* Multi-timeframe analysis
+* Visual: Structure diagrams
 
-### PART IX — CAPSTONE PROJECT & CERTIFICATION (20 pages)
-39. **30-Trade Challenge (90-Day System)** (10 pages)
-    - Challenge setup (5 pages)
-    - Tracking progress (5 pages)
-    - [Image Placeholder: Challenge timeline]
-40. **Trading Plan Submission & Evaluation** (5 pages)
-    - Submission process (3 pages)
-    - Evaluation criteria (2 pages)
-    - [Image Placeholder: Evaluation form]
-41. **Certification Criteria** (5 pages)
-    - Criteria details (5 pages)
-    - [Image Placeholder: Certificate design]
+**3. Liquidity Theory & Spotting Liquidity**
+* External vs internal liquidity
+* Liquidity pools: equal highs/lows, session extremes, round numbers
+* Stop hunts, sweeps, engineered moves
+* Visual: Liquidity map example
 
-### PART X — APPENDICES (30 pages)
-- Pip calculators & lot tables (5 pages). Sub-Subheading: Calculator Formulas—Pip value and lot sizing.
+**4. Smart Money Concepts (SMC)**
+* Order Blocks: valid, invalid, mitigation, breaker blocks
+* Fair Value Gaps (FVG): imbalance marking & interpretation
+* Institutional stacking & OB–FVG confluence logic
+* Visual: OB & FVG examples
 
-#### Case Study: Calculator Use
-Pip calculator saved sizing error.
+**5. Supply, Demand & Support/Resistance**
+* Institutional vs retail S&R
+* SnR flips, polarity, ranking S/R zones
+* Visual: S&R levels on chart
 
-#### Example: Lot Calculation
-Account $1000, risk 1%, SL 20 pips, EUR/USD = 0.05 lots.
-- Chartcraft reference templates (5 pages). Sub-Subheading: Template Examples—Journal and plan samples.
+**6. Fibonacci Precision**
+* Retracement & extension levels in SMC context
+* Fib + OB + FVG confluence
+* Visual: Fibonacci examples
 
-#### Case Study: Template Use
-Templates streamlined trader's workflow.
+### PART IV — ADVANCED MARKET DYNAMICS
+**1. Inducements & Liquidity Traps**
+* Identifying inducements: retail bait vs genuine breakout
+* Avoiding common traps
+* Visual: Trap examples
 
-#### Example: Journal Template
-Date, pair, setup, entry/exit, P&L, notes.
-- Example trade logs (5 pages). Sub-Subheading: Log Samples—Annotated trade examples.
+**2. Range Behavior & Session Killzones**
+* Recognizing real vs fake ranges
+* Session overlaps & killzone timing strategies
+* Visual: Session charts
 
-#### Case Study: Log Review
-Logs helped trader identify patterns.
+**3. The DRIVE Framework**
+* Direction: HTF bias & MWD timeframes
+* Range: consolidations & tradeable ranges
+* Interest: POI selection (OB, FVG, SnR)
+* Value: risk sizing, account flipping vs swinging
+* Execution: HTF confirmation → LTF triggers & confluences
+* Evaluation & improvement loop
+* Visual: DRIVE diagram
 
-#### Example: Trade Log
-OB entry at 1.2500, SL 1.2450, TP 1.2600, P&L +100 pips.
-- Recommended resources & readings (10 pages). Sub-Subheading: Resource List—Books, sites, courses.
+**4. Pre-Trade Routine & Checklist**
+* Step-by-step routine
+* Checklist template
+* Bias validation, session filter, POI readiness
+* News check (economic calendar)
+* RR validation & pip/lot calculations
+* Mental readiness & emotional checklist
+* Visual: Checklist graphic
 
-#### Case Study: Resource Use
-Books like "Market Wizards" inspired trader.
+**5. Entry Models & Trigger Mechanics**
+* Limit entries, confirmation, hybrid entries
+* LTF trigger candlesticks & microstructure confirmations
+* Using FVG/OB mitigation points for logical entries
+* Visual: Entry signals
 
-#### Example: Book Recommendation
-"Market Wizards" by Jack Schwager—trading interviews.
-- Quick glossary of Smart Money terms (5 pages). Sub-Subheading: Term Definitions—Key SMC vocabulary.
+**6. Execution Models & Templates**
+* Scalper (1m–5m), Intraday (15m–H1), Swing (H4–Daily)
+* Step-by-step setup, entry, management, exit logic
+* Visual: Model comparisons
 
-#### Case Study: Glossary Use
-Glossary clarified OB for trader.
+**7. Stop Placement, Trade Invalidation & Target Mapping**
+* Logical stop placement, invalidation rules
+* Target mapping: next liquidity pool, equal highs/lows, opposing OB, FVG edges
+* Partial take profits & scaling out
+* Visual: SL/TP examples
 
-#### Example: Term Definition
-OB: Order Block—High-prob entry zone.
-- [Image Placeholder: Various appendix visuals]
+**8. Position Sizing, Lot Calculation & Leverage**
+* Lot sizing formulas, risk %, pip distance
+* Examples for various account sizes
+* Leverage math & monetary impact
+* Margin & free margin management
+
+**9. Trade Management Techniques**
+* Breakeven protocols
+* Trailing stop logic
+* Pyramiding & scaling-in rules
+* Running winners vs locking profits
+* Visual: Trade management charts
+
+### PART V — RESEARCH, TRACKING & IMPROVEMENT
+* Trade Journaling & Performance Metrics
+* Backtesting, Replay & Edge Validation
+* Fundamental Drivers & News Mastery
+* Market Sentiment Matrix (DXY, US10Y, indices, safe haven currencies)
+* Correlation Systems (commodities, currency pairs, risk management)
+* Advanced Liquidity Engineering & Time/Price symmetry
+* Visuals: Templates, economic calendar, sentiment diagrams
+
+### PART VI — PSYCHOLOGY, IDENTITY & ACCOUNTABILITY
+* Cognitive Biases & Emotional Management
+* Self-Sabotage Detection System
+* Trading Identity Shift: Student → Operator
+* Account Growth & Overconfidence Cycles
+* Crisis Recovery Protocol
+* Discipline Rituals: Focus, Fasting, Meditation
+* Visuals: Mindset graphics, flowcharts
+
+### PART VII — OPERATIONS, ETHICS & PROP PREPARATION
+* Practical Operations & Trading Ethics
+* Prop Firm Adaptation & Strategy Tips
+* Personal Trading Plan Creation
+* Visuals: Ethics & prop firm diagrams
+
+### PART VIII — MENTORSHIP SYSTEM
+* Cheat Sheets: OB/FVG marking, Pre-trade checklist, Entry triggers
+* Mentor Review Structure: 10-trade submission + 500-word reflection, 5-minute oral rationale
+* Assessment Rubrics: KPI thresholds, pass/fail grading
+* Visuals: Submission examples, rubric tables
+
+### PART IX — CAPSTONE PROJECT & CERTIFICATION
+* 30-Trade Challenge / 90-day track record
+* Trading Plan Submission & Evaluation
+* Certification Criteria & Example Certificate Design
+* Visuals: Challenge timeline & certificate template
+
+### PART X — APPENDICES
+* Pip Calculators & Lot Tables (formulas & examples)
+* Chartcraft Reference Templates (journals, checklists)
+* Example Trade Logs (annotated & filled)
+* Recommended Reading & Resources
+* Quick Glossary of Smart Money Terms
+* Visuals: Templates, logs, glossary diagrams
 
 ## Full Syllabus Table
 
